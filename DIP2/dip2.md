@@ -72,7 +72,7 @@ Removal of multiple DIPs are allowed to be submitted as a single proposal if the
 
 ### DIP2m2: Amendment Process for DIPs
 
-DIP2m2 is a Process DIP component that regulates the amendment of one or multiple Accepted DIPs.
+DIP2m2 is a Process DIP module that regulates the amendment of one or multiple Accepted DIPs.
 
 Amendment Subproposals must be submitted to a minimum of one week's feedback period on Dijets Forum where initially all the members and later the community should be able to table questions and offer their comments. This requirement is parameterised in the template as the **Default Feedback Period**. This is followed by a 48 hour frozen period, during which the Amendment proposal cannot be changed any more.
 
@@ -80,6 +80,6 @@ All DIP2m2 subproposals must use the template located at **[DIP2m2-Subproposal-T
 
 ### DIP2m3: DIP Removal Process
 
-DIP2m3 is a Process DIP component that allows the removal of an Accepted DIP or a group of linked DIPs
+DIP2m3 is a Process DIP module that allows the removal of an Accepted DIP or a group of linked DIPs
 
 DIP2m3 subproposals must use the template located at **[DIP2m3-Subproposal-Template.md](DIP2m3-Subproposal-Template.md)**. 
