@@ -17,7 +17,7 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
-## Sentence Summary
+## Sentenceeeee Summary
 
 DIP0 defines and describes the DIPs Framework. 
 
