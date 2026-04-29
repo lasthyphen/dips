@@ -1,4 +1,4 @@
-## DIP-101 — Governance Activation & Epoch Commencement
+## DIP-001 — Governance Activation & Epoch Commencement
 
 ### **Preamble**
 
