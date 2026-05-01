@@ -379,7 +379,7 @@ A Governance Arbiter should be considered for removal if they are:
 DIP0m11 is a Process DIP module that allows the onboarding of core personnel using a subproposal. DIP0m11 subproposals must have a parameter clearly stating the **Frozen Period** requirement which ensures no last minute changes are brought about to a process module about to be implemented such as an individual onboarding as an Editor or Arbiter:
 -   **Frozen Period**: 24 hours
 
-DIP0m11 subproposals must use the template located at  **[DIP0m11-Subproposal-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP0/DIP0m11-Subproposals/DIP0m11-SP1.md)**. This template is officially considered as implemented once this DIP moves to Accepted status.
+DIP0m11 subproposals must use the template located at  **[DIP0m11-Subproposal-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP0/DIP0m11-Subproposals/DIP0m11-SP.md)**. This template is officially considered as implemented once this DIP moves to Accepted status.
 
 ---
 
@@ -389,6 +389,6 @@ DIP0m12 is a Process DIP module that allows the removal of core personnel using 
 
 -   **Frozen Period**: 0 hours
 
-DIP0m12 subproposals must use the template located at  **[DIP0m12-Subproposal-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP0/DIP0m12-Subproposals/DIP0m12-SP1.md)**. This template is considered ratified once this DIP moves to Accepted status.
+DIP0m12 subproposals must use the template located at  **[DIP0m12-Subproposal-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP0/DIP0m12-Subproposals/DIP0m12-SP.md)**. This template is considered ratified once this DIP moves to Accepted status.
 
 ---
