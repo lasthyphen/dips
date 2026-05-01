@@ -223,11 +223,11 @@ Externally referenced materials are not DIP content, and are not strictly part o
 
 **General DIP Template**
 - The General DIP Template should be used for DIPs whenever the proposal does not relate to Dijets Codebase or any of the smart contracts in Dijets Utility Chain. 
-- The General DIP Template can be found at **[General-DIP-Template.md]([[https://github.com/lasthyphen/dips/blob/master/DIP0/General-DIP-Template.md](https://raw.githubusercontent.com/lasthyphen/dips/refs/heads/master/DIP0/General-DIP-Template.md)](https://raw.githubusercontent.com/lasthyphen/dips/refs/heads/master/DIP0/General-DIP-Template.md))**. This template is considered officially published and ratified by the council once this DIP moves to Accepted status.
+- The General DIP Template can be found at **[General-DIP-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP0/General-DIP-Template.md)**. This template is considered officially published and ratified by the council once this DIP moves to Accepted status.
 
 **Technical DIP Template**
 - The Technical DIP Template should be used for DIPs whenever a DIP proposes changes to Dijets Codebase or any of the smart contract code hosted on Dijets Utility Chain.
-- The Technical DIP Template can be found at **[Technical-DIP-Template.md]([[https://github.com/lasthyphen/dips/blob/master/DIP0/Technical-DIP-Template.md](https://raw.githubusercontent.com/lasthyphen/dips/refs/heads/master/DIP0/Technical-DIP-Template.md)](https://raw.githubusercontent.com/lasthyphen/dips/refs/heads/master/DIP0/Technical-DIP-Template.md))**. This template is considered officially published and ratified by the council once this DIP moves to Accepted status.
+- The Technical DIP Template can be found at **[Technical-DIP-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP0/Technical-DIP-Template.md)**. This template is considered officially published and ratified by the council once this DIP moves to Accepted status.
 ---    
 
 ### DIP0m8: DIP0 Core Personnel Role Dependencies
