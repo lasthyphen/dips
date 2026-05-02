@@ -20,79 +20,79 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary  
 
-Proposes amendments to the structure, indices, or classification within the [Domain Name] principal domain.
+Proposes the removal of the [Domain Name] principal domain and its associated indices.
 
 ---
 
 ## Paragraph Summary  
 
-This proposal outlines changes to the [Domain Name] principal domain, including modifications to existing indices, addition of new units, or restructuring of classifications. The objective is to improve clarity, scalability, and alignment with the evolving needs of the Dijets Ecosystem.
+This proposal recommends the complete removal of the [Domain Name] principal domain from the Dijets Ecosystem classification framework. The removal is intended to streamline governance, eliminate redundancy, or reflect structural changes within the ecosystem.
 
 ---
 
 ## Motivation  
 
-Explain why the amendment is necessary.  
+Explain why the domain should be removed.  
 Examples:
-- Gaps in the current domain structure  
-- Redundancy or ambiguity in indices  
-- New features or ecosystem expansion  
+- Domain is obsolete  
+- Overlaps significantly with another domain  
+- No longer actively used or maintained  
 
 ---
 
 ## Specification / Proposal Details  
 
-### 1. Domain Affected  
-- **Domain Name:** [e.g. DPS: Products & Services]
+### 1. Domain to be Removed  
+- **Domain Name:** [e.g. DMM: Money Markets]
 
 ---
 
-### 2. Proposed Changes  
+### 2. Affected Indices  
 
-#### a. Amend Existing Index  
-| Current Unit | Current Index | Proposed Change |
-|--------------|--------------|----------------|
-| [Unit Name]  | [Index]      | [New Name / Updated Description] |
+List all indices that will be removed:
 
----
-
-#### b. Add New Index  
-| New Unit | Proposed Index | Description |
-|----------|---------------|-------------|
-| [Unit Name] | [Index]    | [Description] |
+| Unit Name | Index |
+|----------|-------|
+| [Unit Name] | [Index] |
+| [Unit Name] | [Index] |
 
 ---
 
-#### c. Remove Existing Index (if applicable)  
-| Unit Name | Index | Reason for Removal |
-|-----------|-------|-------------------|
-| [Unit Name] | [Index] | [Reason] |
+### 3. Reallocation Plan (if applicable)  
+
+If any units will be migrated:
+
+| Unit Name | Old Index | New Domain | New Index |
+|----------|----------|------------|-----------|
+| [Unit Name] | [Index] | [Domain] | [Index] |
 
 ---
 
-### 3. Resulting Domain Structure  
+### 4. Impact Assessment  
 
-Provide the updated full table for the domain after amendments.
+- Governance implications  
+- Impact on existing DIPs  
+- Dependencies and integrations  
 
 ---
 
 ## Backwards Compatibility  
 
-Explain any impact on:
-- Existing DIPs  
-- Governance processes  
-- System dependencies  
+Explain how existing references to the domain will be handled:
+- Deprecated references  
+- Migration strategy  
+- Archival approach  
 
 ---
 
 ## Risks & Considerations  
 
-- Potential confusion during transition  
-- Dependency conflicts  
+- Loss of structural clarity  
 - Migration complexity  
+- Impact on ecosystem coordination  
 
 ---
 
 ## Conclusion  
 
-Summarise the intended improvements and expected outcomes.
+Summarise the rationale for removal and expected benefits to the ecosystem.
