@@ -1,9 +1,9 @@
-# DIP3m1: Subproposal Template for Core Personnel Onboarding
+# DIP3m2: Subproposal Template for Core Personnel Onboarding
 
 ## Preamble
 
 ```
-DIP3m1-SP#: #
+DIP3m2-SP#: #
 Author(s):
 Status:
 Date Applied: <yyyy-mm-dd>
