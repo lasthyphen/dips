@@ -1,4 +1,4 @@
-# DIP3m2: Subproposal Template for Core Personnel Onboarding
+# DIP3m2: Subproposal Template for Amendments to a Principal Domain
 
 ## Preamble
 
