@@ -30,9 +30,9 @@ The goal of having principal domains is to give the council a complete overview 
 
 ## Modules Summary
 
-**DIP3m1: Add Principal Domains**
+**DIP3m1: Principal Domains**
 
-DIP3m1 can be used as a sub-proposal to add further principal domains.
+Describes the principal domains of governance and their respective remit indices.
 
 **DIP3m2: Amend/Remove Principal Domains**
 
@@ -55,9 +55,9 @@ Principal Domains should facilitate a structured and organised approach to formu
 
 ## Specification / Proposal Details
 
-#### Principal Domain : DNP
+### DIP3m1: Principal Domains
 
-### Network & Protocol
+### DNP: Network & Protocol
 
 | Domain Unit            | Index                  |
 | ---------------------- | ---------------------- |
@@ -75,9 +75,7 @@ Principal Domains should facilitate a structured and organised approach to formu
 | Feature/Idea           | DNP12                  |
 | Misc                   | DNP13                  |
 
-#### Principal Domain : DGV
-
-### Governance
+### DGV: Governance
 
 | Sub-Domain             | Index                  |
 | ---------------------- | ---------------------- |
@@ -97,9 +95,7 @@ Principal Domains should facilitate a structured and organised approach to formu
 | Feature/Idea           | DGV14                  |
 | Misc                   | DGV15                  |
 
-#### Principal Domain : DMM
-
-### Money Markets
+### DMM: Money Markets
 
 | Sub-Domain             | Index                  |
 | ---------------------- | ---------------------- |
@@ -118,45 +114,37 @@ Principal Domains should facilitate a structured and organised approach to formu
 | Feature/Idea           | DMM13                  |
 | Misc                   | DMM14                  |
 
-#### Principal Domain : DMV
-
-### Metaverse
-
-| Sub-Domain             | Index                  |
-| ---------------------- | ---------------------- |
-| NFT/Collectibles       | DMV01                  |
-| Spaces                 | DMV02                  |
-| Name Servers           | DMV03                  |
-| Avatars                | DMV04                  |
-| DroAds                 | DMV05                  |
-| Leasing                | DMV06                  |
-| Builder                | DMV07                  |
-| Contracts              | DMV08                  |
-| Fees                   | DMV09                  |
-| Partnerships           | DMV10                  |
-| Feature/Idea           | DMV11                  |
-| Misc                   | DMV12                  |
-
-#### Principal Domain : DPS
-
-### Products & Services
+### DPS: Products & Services
 
 | Sub-Domain             | Index                  |
 | ---------------------- | ---------------------- |
 | Wallet                 | DPS01                  |
-| Horizon Browser        | DPS02                  |
-| Data Streams           | DPS02                  |
-| Decypher               | DPS02                  |
-| Qowalts                | DPS03                  |
-| Tinker                 | DPS04                  |
-| Creed                  | DPS05                  |
-| ECC                    | DPS06                  |
-| Marketing              | DPS06                  |
-| UI/UX                  | DPS07                  |
-| Integrations           | DPS07                  |
-| BaaS                   | DPS07                  |
-| Partnerships           | DPS10                  |
-| Events                 | DPS10                  |
-| Community Engagement   | DPS10                  |
-| Product/Service Idea   | DPS10                  |
-| Misc                   | DMV12                  |
+| Horizon                | DPS02                  |
+| Data Streams           | DPS03                  |
+| Dijetex                | DPS04                  |
+| Nodebook               | DPS05                  |
+| Qowalts                | DPS06                  |
+| Tinker                 | DPS07                  |
+| Creed                  | DPS08                  |
+| ECC                    | DPS09                  |
+| Marketing              | DPS10                  |
+| UI/UX                  | DPS11                  |
+| Integrations           | DPS12                  |
+| BaaS                   | DPS13                  |
+| Partnerships           | DPS14                  |
+| Events                 | DPS15                  |
+| Community Engagement   | DPS16                  |
+| Product/Service Idea   | DPS17                  |
+| Misc                   | DMV18                  |
+
+### DIP3m2: DIP Templates
+
+**Principle Domains Amendment Template**
+- The Principle Domains Amendment Template should be used whenever there is a need to amend a principal domain and/or its indices.
+- The Principle Domains Amendment Template can be found at **[Principle-Domain-Amendment-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP3/Principle-Domain-Amendment-Template.md)**. This template is considered officially published and ratified once this DIP moves to Accepted status.
+
+**Principle Domains Removal Template**
+- The Principle Domains Removal Template should be used whenever there is a need to remove a principal domain and/or its indices.
+- The Principle Domains Removal Template can be found at **[Principle-Domain-Removal-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP3/Principle-Domain-Removal-Template.md)**. This template is considered officially published and ratified by the council once this DIP moves to Accepted status.
+---    
+
