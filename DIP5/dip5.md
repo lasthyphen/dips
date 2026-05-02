@@ -46,7 +46,6 @@ Specifies penalties and enforcement mechanisms for failing to meet participation
 
 Describes how CAP positions are settled and redeemed upon successful participation.
 
----
 
 ## Motivation
 
@@ -66,7 +65,6 @@ The CAP mechanism creates:
 
 This approach supports a more resilient and engaged governance model while maintaining flexibility for future refinements.
 
----
 
 ## Specification / Proposal Details
 
@@ -77,7 +75,6 @@ Each DGC Member must acquire a Collateralised Accountability Position (CAP) to p
 - The locked collateral enables the member to mint or access the required governance participation units (e.g. HAL tokens, where applicable).
 - Members without an active CAP are ineligible to participate in voting or proposal processes for that cycle.
 
----
 
 ### DIP5m2: Participation Obligations
 
@@ -91,7 +88,6 @@ Participation is considered valid when a member engages in voting activity and g
 
 Failure to engage in these activities may be classified as non-participation.
 
----
 
 ### DIP5m3: Non-Participation Consequences
 
@@ -109,7 +105,6 @@ The exact penalty applied may depend on:
 
 This mechanism ensures that governance inactivity carries tangible consequences, reinforcing accountability across all members.
 
----
 
 ### DIP5m4: Redemption Mechanism
 - CAP positions may be redeemed at the end of a governance cycle upon successful participation.
@@ -123,12 +118,7 @@ Failure to meet redemption conditions may result in:
 - Partial collateral recovery
 - Full forfeiture depending on governance rules
 
----
 
 ## Conclusion
 
 DIP5 establishes a clear and enforceable framework for governance participation through the implementation of CAP. By aligning incentives with responsibility, the proposal strengthens governance integrity, ensures active engagement, and enhances the overall effectiveness of decision-making within the Dijets Ecosystem.
-
-
-
-
