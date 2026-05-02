@@ -34,18 +34,18 @@ The goal of having principal domains is to give the council a complete overview 
 
 Describes the principal domains of governance and their respective remit indices.
 
-**DIP3m2: Amend/Remove Principal Domains**
+**DIP3m2: Amend Principal Domain and/or its Indices**
 
 Amend or completely remove an existing principal domain classification from the DIPs.
 
-**DIP3m3: Add a new index to the proposed Principal Domain**
-
-DIP3m3 can be used as a sub-proposal to add more indices to the principal domain.
-
-**DIP3m4: Removal or Amendment of an Indexed Unit from the principal domain**
+**DIP3m3: Remove Principal Domain and/or its Indices**
 
 The expectation is that these classifications will go through many modifications and any changes, removals or additions/replacements to
 an accepted Principal Domain category will require a subproposal submission and it being accepted.
+
+**DIP3m4: Add a new index to the proposed Principal Domain**
+
+DIP3m3 can be used as a sub-proposal to add more indices to the principal domain.
 
 
 ## Motivation
@@ -141,10 +141,10 @@ Principal Domains should facilitate a structured and organised approach to formu
 
 **Principle Domains Amendment Template**
 - The Principle Domains Amendment Template should be used whenever there is a need to amend a principal domain and/or its indices.
-- The Principle Domains Amendment Template can be found at **[Principle-Domain-Amendment-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP3/Principle-Domain-Amendment-Template.md)**. This template is considered officially published and ratified once this DIP moves to Accepted status.
+- The Principle Domains Amendment Template can be found at **[Principle-Domain-Amendment-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP3/DIP3m2-Principle-Domain-Amendment-Template.md)**. This template is considered officially published and ratified once this DIP moves to Accepted status.
 
 **Principle Domains Removal Template**
 - The Principle Domains Removal Template should be used whenever there is a need to remove a principal domain and/or its indices.
-- The Principle Domains Removal Template can be found at **[Principle-Domain-Removal-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP3/Principle-Domain-Removal-Template.md)**. This template is considered officially published and ratified by the council once this DIP moves to Accepted status.
+- The Principle Domains Removal Template can be found at **[Principle-Domain-Removal-Template.md](https://github.com/lasthyphen/dips/blob/master/DIP3/DIP3m3-Principle-Domain-Removal-Template.md)**. This template is considered officially published and ratified by the council once this DIP moves to Accepted status.
 ---    
 
