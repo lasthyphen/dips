@@ -5,12 +5,12 @@
 ```
 DIP#: 3
 Title: Principal Domains & their Indices
-Author: Saleem Fareed (@Dijets-Inc)
+Author(s): Core Team (@Dijets-Inc)
 Domain: 0
 Type: Frameworks DIP
 Status: Accepted 
-Date Proposed: 2023-06-31
-Date Ratified: 2023-06-31
+Date Proposed: 2026-04-25
+Date Ratified: 2026-04-25
 Dependencies: n/a
 Replaces: n/a
 Notes: 
