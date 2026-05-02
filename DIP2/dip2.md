@@ -5,12 +5,12 @@
 ```
 DIP#: 2
 Title: Amendment and Removal process for accepted DIPs
-Author(s): Saleem Fareed (@Dijets-Inc)
+Author(s): Core Team (@Dijets-Inc)
 Domain: Governance
 Type: Process
 Status: Accepted
-Date Proposed: 2023-05-25
-Date Ratified: 2023-05-25
+Date Proposed: 2026-04-25
+Date Ratified: 2026-04-25
 Dependencies: n/a
 Replaces: n/a
 Notes: 
